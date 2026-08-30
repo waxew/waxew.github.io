@@ -1,0 +1,12 @@
+{
+  "name": "AS Projects Web Dashboard",
+  "short_name": "AS Projects",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#0b1020",
+  "lang": "fa",
+  "dir": "rtl",
+  "description": "داشبورد مرکزی نسخه‌های وب پروژه‌های AS Team روی GitHub Pages"
+}
